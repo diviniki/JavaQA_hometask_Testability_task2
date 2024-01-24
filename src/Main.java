@@ -5,6 +5,6 @@ public class Main {
         int heightCm = 187;
         int indexBmi = service.calculate(weightKg, heightCm);
         System.out.println(indexBmi);
-
+//
     }
 }
